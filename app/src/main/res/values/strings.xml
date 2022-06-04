@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="already_have_an_account_login">¿Ya tienes cuenta?/Login</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre_de_usuario">Apodo</string>
+    <string name="correo">Email</string>
+    <string name="telefono">Teléfono</string>
+</resources>
